@@ -1,0 +1,1 @@
+[{"type": "find", "name": "head", "params": {"template": "templates/head.png", "found": true}}, {"type": "if", "name": "If", "params": {}}, {"type": "click", "name": "bot", "params": {"x": 200, "y": 461, "duration": 10.0, "interval": 100}}, {"type": "endif", "name": "End If", "params": {}}]
