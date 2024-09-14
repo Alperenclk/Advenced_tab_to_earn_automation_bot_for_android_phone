@@ -24,7 +24,7 @@ This project is an Android automation tool that allows users to create, save, an
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/android-automation-tool.git
+   git clone https://github.com/Alperenclk/Advenced_tab_to_earn_automation_bot_for_android_phone
    cd android-automation-tool
    ```
 
@@ -33,9 +33,7 @@ This project is an Android automation tool that allows users to create, save, an
    pip install PyQt5 opencv-python pyautogui keyboard numpy
    ```
 
-3. Download and install scrcpy: [https://github.com/Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)
 
-4. Update the `scrcpy_exe_path` variable in the script to point to your scrcpy executable.
 
 ## Usage
 
