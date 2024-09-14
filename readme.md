@@ -53,6 +53,10 @@ This project is an Android automation tool that allows users to create, save, an
 
 5. Run the automation sequence by clicking the "Run Automation" button.
 
+## Example of Application
+![alt text](image.png)
+
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
