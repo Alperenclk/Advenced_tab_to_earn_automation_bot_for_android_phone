@@ -2,7 +2,7 @@
 
 This project is an Android automation tool that allows users to create, save, and run automated sequences of actions on an Android device using the scrcpy screen mirroring software.
 
-## Features
+## 🚀 Features
 
 - Create automated sequences of actions including clicks, text input, waits, and image recognition
 - Save and load automation sequences
@@ -10,7 +10,7 @@ This project is an Android automation tool that allows users to create, save, an
 - Support for conditional statements (if/else) and loops (while/for)
 - Integration with scrcpy for Android screen mirroring
 
-## Prerequisites
+## 📋 Prerequisites
 
 - Python 3.7+
 - PyQt5
@@ -20,7 +20,7 @@ This project is an Android automation tool that allows users to create, save, an
 - numpy
 - scrcpy (must be installed separately)
 
-## Installation
+## 🛠️ Installation
 
 1. Clone this repository:
    ```
@@ -33,9 +33,7 @@ This project is an Android automation tool that allows users to create, save, an
    pip install PyQt5 opencv-python pyautogui keyboard numpy
    ```
 
-
-
-## Usage
+## 📱 Usage
 
 1. Connect your Android device to your computer via USB and enable USB debugging.
 
@@ -53,14 +51,27 @@ This project is an Android automation tool that allows users to create, save, an
 
 5. Run the automation sequence by clicking the "Run Automation" button.
 
-## Example of Application
-![alt text](image.png)
+## 📸 Example of Application
+![Application Screenshot](image.png)
 
+## 🔗 Other Works
 
-## Contributing
+- [Tap-To-Earn Bot For Telegram](https://github.com/Alperenclk/Tap-To-Earn_Bot_For_Telegram)
+- [Automating Telegram Game Bot Clicker with Python: Step-by-Step Guide](https://medium.com/@alperenclk/automating-telegram-game-bot-clicker-with-python-step-by-step-guide-1b9206188d06)
+
+## 🎮 Doginhood Invite Code
+
+Join the DinoHood mining game using these invitation links:
+
+- **Regular Invitation**: [https://t.me/Doginhood_bot/dogin?startapp=027s7njc](https://t.me/Doginhood_bot/dogin?startapp=027s7njc)
+- **Special Camping Code**: [https://t.me/Doginhood_bot/dogin?startapp=027s7njc_camp8w8lhQfD](https://t.me/Doginhood_bot/dogin?startapp=027s7njc_camp8w8lhQfD)
+
+Use these codes to get started with the DinoHood mining game and enjoy special benefits!
+
+## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
+## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
